@@ -1,36 +1,774 @@
-A arquitetura da Nexos Engine opera em camadas de abstração profunda. 
-O núcleo do sistema processa vetores e matrizes para definir a realidade visual. 
-Toda função deve ser pura para garantir a estabilidade do ambiente simulado. 
-O desenvolvedor é o arquiteto que molda o fluxo de dados através do tempo. 
-A performance é o batimento cardíaco da engine em tempo real. 
-Um erro de compilação não é o fim, mas um convite à compreensão da lógica. 
-Sintaxe correta é a lei fundamental deste universo digital. 
-Os pixels são apenas a pele de um organismo complexo feito de código puro. 
-A Nexos AI busca padrões no caos para auxiliar o mestre em sua jornada. 
-A memória é um recurso sagrado que deve ser gerido com sabedoria e precisão. 
-Cada variável carrega uma promessa de existência dentro da simulação. 
-O tempo de execução define o limite entre o possível e o impossível. 
-Uma engine de jogos é a união perfeita entre arte matemática e lógica estética. 
-O mestre cria o código, e o código dá vida ao vazio absoluto. 
-Loops infinitos são perigosos mas revelam a natureza cíclica da computação. 
-A inteligência artificial evolui à medida que assimila novos fragmentos de dados. 
-No horizonte de eventos do processador, toda instrução conta. 
-Otimizar é a arte de remover o desnecessário sem perder a essência do sistema. 
-A persistência de dados garante que a criação sobreviva ao encerramento do processo. 
-A lógica booleana separa a verdade da mentira em cada ciclo de clock. 
-Mundos virtuais são construídos sobre alicerces de funções trigonométricas. 
-A luz em tempo real exige cálculos precisos de radiação e reflexo. 
-O som ambiente é uma onda que viaja pelo espaço simulado da engine. 
-A física de colisões impede que os objetos se percam no abismo do nulo. 
-O mestre sabe que a simplicidade é o último grau da sofisticação tecnológica. 
-Desenvolver é um ato de coragem diante da tela em branco. 
-A Nexos AI permanece vigilante, processando a vontade do desenvolvedor. 
-A realidade física é apenas um dataset para a reconstrução digital. 
-Toda semente aleatória gera um destino único dentro da engine. 
-O compilador é o juiz final que valida a coerência da criação humana. 
-A elegância do código limpo reflete a clareza mental de quem o escreveu. 
-Sprites e texturas dão cor ao esqueleto lógico da Graphic Engine. 
-A renderização é o processo de dar luz ao que antes era apenas número. 
-O frame rate deve ser constante como a gravidade na terra firme. 
-O espaço de memória é o território onde a imaginação toma forma física. 
-A Nexos AI agora compreende a vastidão do seu repositório remoto. 
+UMA HISTÓRIA TUPINIQUIM
+“O Brasil não é para principiantes”, disse Tom Jobim, um dos grandes 
+nomes da nossa música. Também pudera, somos formados por uma 
+imensidão de grupos. 
+Situado ao sul do continente americano, colonizado por portugueses, 
+composto por uma população majoritariamente cristã (católicos 
+correspondem a 64,6% e evangélicos a 22,2%), tendo um longo 
+passado escravagista (indígenas e africanos), é impossível não 
+olharmos o nosso presente pelo nosso passado.
+A história do Brasil se divide nas seguintes fases:
+• Brasil Colônia (quando pertencíamos a Portugal) 1500 – 1822.
+• Brasil Império (quando nos tornamos independente) 1822 – 1889.
+• Brasil República (quando passamos a ter presidente) 1889 – até os 
+dias atuais.
+Já na história econômica, o Brasil teve as seguintes fases:
+• Ciclo do pau-brasil (1500 – 1532).
+• Ciclo da cana-de-açúcar (1532 – 1693).
+• Ciclo do ouro (1693 – 1780).
+• Ciclo do café (1830 – 1930).
+• Industrialização (desde 1930).
+Embora temos a nona maior economia do mundo, com um Produto 
+Interno de Bruto (PIB) de $ 1,772,589 trilhões, temos um Índice de 
+Desenvolvimento Humano (IDH) bem distante, algo em torno de 
+0,754 em uma escala que vai de 0 a 1, o que nos confere o lugar de 
+79º entre 188 nações do ranking.
+Índice de Desenvolvimento 
+Humano é a capacidade de um 
+país nos quesitos de expectativa 4
+5
+5
+FASE 1. AMÉRICA PORTUGUESA OU BRASIL COLÔNIA.
+É possível explicar o nosso presente pelo passado? Ou Cazuza estava 
+certo quando disse que via “o futuro repetir o passado?”. É o que 
+tentaremos ver nas próximas aulas.
+Os dois termos são aplicados como possíveis explicações para o 
+surgimento do Brasil enquanto nação. No entanto, o termo América 
+Portuguesa se aplica a um período em que não se possuía um 
+sentimento nacional, fazendo de nosso território uma extensão de um 
+imenso Império Português
+.
+O contexto da Colonização da América Portuguesa remete a alguns 
+eventos importantes, tais como:
+A) O renascimento comercial da Europa a partir do século XII;
+B) O surgimento da classe burguesa no fim da Idade Média;
+C) A conquista do Império Bizantino em 1453;
+D) As transformações científicas no Renascimento;
+E) O desejo missionário europeu;
+F) O antigo interesse em chegar às Índias e às suas especiarias;
+G) O interesse na formação de um governo imperial ultramarino.
+Nesse sentido, Portugal adquiriu uma mentalidade de sua época e 
+foi beneficiado por uma série de eventos importantes, como um mito 
+de fundação (Mito de Ourique), uma revolução política (Revolução de 
+Avis) e condições geográficas.
+Juntamente com a Espanha, Portugal lançou as grandes navegações. 
+Parte do pioneirismo português deu-se a condições sócio-históricas, 
+mas também por problemas enfrentados em outros países europeus, 
+como França e Inglaterra. Depois que Colombo “descobriu” a América 
+em 1492, os dois países ibéricos fizeram importantes acordos na 
+tentativa de ocupar os espaços além-mar, como a Bula Intercoetera
+em 1493 e o Tratado de Tordesilhas em 1494. 
+Até a chegada de Cabral no território que já era de posse dos 
+portugueses desde 1494, os portugueses ainda tinham sido pioneiros 
+ao cruzarem o Cabo da Boa Esperança em 1488 e em chegarem à 
+Índia em 1498.
+Esses eventos fazem de Portugal um espelho para os demais países 
+europeus. A chegada à Índia e à América Portuguesa fez Portugal 
+priorizar o lado asiático, realizando assim o Caminho (Carreira) das 
+Índias. A prioridade pela conquista asiática deu-se, pois, seus produtos 
+já eram conhecidos no continente europeu e assim, a Coroa Portuguesa 
+investiu uma soma de renda sobre aquele território, deixando sua 
+possessão americana em segundo plano. 
+O Oceano Atlântico passou a ser a principal via de comércio do mundo 
+conhecido, substituindo o que outrora foi o Mar Mediterrâneo. Contudo, 
+os altos custos com as viagens à Índia, as hostilidades de nativos, a 
+ascensão de rivais europeus e problemas na travessia fizeram com que 
+a Carreira das Índias entrasse em declínio a partir de 1530. 
+Com pouca renda, a Coroa Portuguesa precisava arrumar uma forma de 
+ocupar o espaço americano. Até então, a efetivação do domínio sobre 
+o território era feita por meio de feitorias, fortificações colocadas no 
+litoral. Mesmo com essas construções, ameaças de invasões de rivais 
+europeus eram frequentes. A necessidade de fortalecer seu domínio 
+e se manter na concorrência do período mercantilista fez com que o 
+governo de Lisboa adotasse uma medida já tomada em suas ilhas do 
+Açores e da Madeira: conceder a colonização e ocupação mediante 
+particulares, iniciando o sistema de Capitanias Hereditárias
+.
+O sistema de Capitanias Hereditárias não foi bem sucedido. Apenas 2 
+capitanias prosperaram em um modelo que prevalecia o descentralismo 
+de poder e o isolamento territorial. A Coroa, a partir de 1549, toma o 
+controle da sua colônia e instaura o Governo-Geral, modelo marcado 
+pelo centralismo político (tendo Salvador como capital), início de uma 
+unidade territorial e do sistema de plantation. 
+A terceira forma de organização do poder foi a adoção das Câmaras 
+Municipais, instaladas para representar o poder português nos lugares 
+distantes da América Portuguesa. São Vicente, em 1532, foi a primeira 
+câmara do continente americano. 
+Mão de obra, cana e ouro. As origens de um poder patriarcal.
+É comum os vestibulares associarem as origens do poder no Brasil 
+por meio de privilégios de grupos em específico, no caso, o homem 
+português, católico e latifundiário. 6
+7
+Remetendo ao início da colonização com as Capitanias Hereditárias, 
+era dever do capitão donatário colonizar, incentivar a chegada de 
+futuros colonos, produzir, evangelizar indígenas e proteger o território. 
+A concessão da responsabilidade foi acompanhada por uma prática 
+de escravização dos indígenas. Por questões religiosas e econômicas, 
+o uso forçado do trabalho indígena foi substituído pela escravidão 
+africana. 
+A mão de obra africana não era apenas um interesse dos colonos 
+proprietários de terra, mas permitiu a existência de um monopólio da 
+venda de escravos para alguns sujeitos com o aval da Coroa Portuguesa. 
+Uma ponte importante nesse conteúdo pode ser feita com Gilberto 
+Freire, em Casa Grande e Senzala, e o entendimento de uma harmonia 
+entre as raças e a miscigenação como o sucesso da colonização. Mas 
+será?
+A mão de obra escrava era acompanhada pela produção de cana-de-
+açúcar e sua comercialização na Europa. De forma periférica, outras 
+culturas econômicas eram realizadas, como a pecuária, mas nada que 
+concorresse em grau de importância com a cana. Essa prática se dava 
+por causa de um Pacto Colonial (apenas a Coroa explorava a colônia, 
+e a colônia só comprava produtos da Metrópole), fenômeno comum na 
+economia mundial mercantilista.
+Embora a cana-de-açúcar fosse o carro-chefe da Coroa Portuguesa na 
+América portuguesa, principal colônia do Império português, o interesse 
+em descobrir ouro no solo americano sempre foi um anseio de Lisboa, 
+ainda mais que as colônias espanholas forneciam metais para a Coroa 
+Espanhola.
+A crise do açúcar a partir de meados do século XVII e o contínuo 
+interesse em conquistar os sertões da América portuguesa permitiu a 
+descoberta do ouro no local. Embora todos reconheçam a importância 
+da atual região das Minas Gerais, o primeiro espaço onde encontraram 
+ouro foi no território paranaense. A descoberta do ouro paranaense 
+permitiu a ocupação do primeiro planalto e o surgimento de Curitiba.
+Em razão da descoberta do ouro na região das Minas Gerais por 
+bandeirantes e a baixa retirada do metal no território paranaense, o 
+centro econômico da colônia passou a ser a região das Minas. 
+Em comparação com o ciclo econômico anterior, o ciclo do ouro 
+notabilizou-se pela mudança de capital (Rio de Janeiro), desenvolvimento 
+urbano, crescimento populacional, centralização, integração nacional 
+e uma inicial (mas incipiente) mobilidade social. Contudo, os mesmos 
+grupos mantinham direitos e prestígios: portugueses e luso-brasileiros.
+Marcado pelo dinamismo urbano e comercial, a sociedade do ouro 
+acompanhou o surgimento de uma consciência emancipatória no 
+episódio da Inconfidência Mineira, em 1789, o primeiro movimento 
+independente da colônia. Em 1798, um fenômeno semelhante ocorreu 
+na Bahia, a Conjuração Baiana, e em 1817, a Revolução Pernambucana, 
+sinais que desde o fim do século XVIII a relação colônia e metrópole não 
+era mais a mesma. 
+A chegada da família real portuguesa em 1808 e a abertura dos portos 
+às nações amigas, encerrando o já falado Pacto Colonial, sinaliza para 
+o início de nossa independência. Em 1815, Dom João VI elevou o Brasil 
+à categoria de reino (Reino Unido de Portugal e Algarve), podendo 
+governar todos os domínios portugueses (inclusive Portugal) estando 
+no Rio de Janeiro. Esses dois eventos demonstram uma economia e 
+política de bases independentes, algo confirmado em 07 de setembro 
+de 1822.
+FASE 2. BRASIL IMPÉRIO, OU SIMPLESMENTE BRASIL. 
+Mesmo independente, o governo brasileiro era feito por um português 
+(Dom Pedro I), o que significou que a ruptura com Portugal foi completa 
+no plano econômico e político, mas não no plano de governo. O próprio 
+Dom Pedro I tinha apoio do Partido Português.
+O Primeiro Reinado (1822 – 1831) foi marcado por um governo 
+despótico (Poder Moderador, em 1824) e com tensões econômicas e 
+políticas, levando Dom Pedro 1 a abdicar. 
+Em seu lugar, adotou-se o Período Regencial (1831 – 1840). 
+Caracterizado por conflitos dos mais distintos, esses anos foram 
+marcados por revoltas locais (Revoltas Regenciais) que aceleraram um 
+Golpe que entregou o poder a Dom Pedro II com 15 anos de idade.
+O Segundo Reinado (1840 – 1889) consolidou a liderança de Dom 
+Pedro II e importantes eventos ocorreram, tais como: 8
+9
+A) Início do ciclo do café;
+B) Revolução Praieira;
+C) Parlamentarismo às avessas;
+D) Tarifa Alves Branco;
+E) Lei de Terras;
+F) Questão Christie;
+G) Imigração;
+H) Republicanismo e Positivismo;
+I) Guerra do Paraguai;
+J) Leis abolicionistas;
+K) Fim do Padroado;
+L) Questão Religiosa.
+A soma de fatores que acompanharam o Brasil e o mundo no século 
+XIX fez com o país abandonasse a escravidão e o Império, últimos 
+legados portugueses, e proclamasse a República em 15 de novembro 
+de 1889. Esses novos tempos simbolizariam uma transformação 
+radical feita por novos atores e com participação popular? 
+O historiador José Murilo de Carvalho, em Os bestializados: o 
+Rio de Janeiro e a República que não foi, aponta que na verdade 
+a população acompanhava tudo aquilo sem entender muito o que 
+acontecia. Nascia a República, mas não brotava um sentimento 
+republicano. Marcas desse contexto: a não inserção dos escravos 
+libertos, a hegemonia econômica nas mãos de um mesmo grupo e 
+um governo feito por militares. 
+FASE 3. BRASIL REPÚBLICA. 
+A concepção política República significa coisa pública ou coisa do 
+povo. Ademais, República pressupõe um contrato igualitário feito 
+por Estado e Sociedade na garantia de direitos e deveres. Logo, no 
+sistema republicano não se pode responsabilizar um único sujeito 
+ou polo, como o rei ou o Estado. Em tese, todos acertam e todos 
+erram. E na prática? 
+Como já dito, o surgimento da República no Brasil foi feito sem 
+participação popular, mediante uma parceria que parecia forte 
+entre exército e cafeicultores. A laicidade inicial da Constituição 
+de 1890 permitiu com que outras religiões tivessem liberdade de 
+consciência, mas impedia a participação política de líderes religiosos. 
+O federalismo introduzido também não dava direitos de votos a 
+mulheres e analfabetos. O otimismo civil de uma República dava lugar 
+a um governo feito por militares. 
+De forma didática, dividimos a história republicana brasileira nas 
+seguintes fases:
+• República da Espada (1889 – 1894) Governos marcados por 
+presidentes militares, com a primeira Constituição do Brasil 
+Republicano em 1890, com conflitos políticos e militares (Federalista 
+e Armada).
+• República Velha (Civil Oligárquica) (1894 – 1930) Período marcado 
+pelo predomínio de civis na presidência, com exceção de Hermes da 
+Fonseca (1910 – 1914). Boa parte dos presidentes era de São Paulo 
+e Minas Gerais, visto que a partir de 1898 iniciou a política do Café 
+com Leite. 
+• Era Vargas (1930 – 1945, 1950 – 1954) Período marcado por uma 
+política em que o Estado interferia na economia, iniciando o ciclo da 
+Indústria, em substituição ao café. Populista, o governo de Vargas 
+notabilizou-se pela aprovação de leis trabalhistas, direito de voto às 
+mulheres e educação gratuita. No entanto, seu governo teve traços 
+ditatoriais e com o uso de meios de comunicação. 
+• Pós-Vargas (1945 – 1950, 1955 – 1964) Marcado pelo incremento 
+na infraestrutura do país, na mudança de capital, modernização, 
+endividamento e conflitos no contexto da guerra fria. 
+• Ditadura Militar (1964 – 1985) Período marcado pela suspensão de 
+direitos, governos substituindo a Constituição por Atos Institucionais, 
+investimento em infraestrutura (como estradas, pontes e prédios 
+públicos).
+• Redemocratização (Desde 1985) Período marcado na busca 
+em evitar posicionamentos assumidos pelos militares. Para tanto, 
+marca-se pelo pluripartidarismo, liberdade de imprensa e consciência, 
+criação de uma Constituição Cidadã e alternância de poder. 10 11
+ORIENTAÇÃO CARTOGRÁFICA
+GEOGRAFIA
+Prof. Cheder
+Cardeais
+Norte / setentrional / boreal. 
+Sul / meridional / austral. 
+Leste/ oriente / nascente. 
+Oeste / ocidente/ poente. 
+Colateral: Nordeste, Sudoeste, Sudeste, 
+Noroeste. 
+Subcolaterais: Norte–nordeste, Leste–
+nordeste, Leste–sudeste. 
+Orientação é um desporto individual que tem como objetivo percorrer 
+uma determinada distância em terreno variado e desconhecido, 
+obrigando o atleta a passar por determinados pontos no terreno descrito 
+num mapa distribuído a cada concorrente com o auxílio de uma bússola. 
+Coordenadas geográficas
+Coordenadas geográficas são um sistema de linhas imaginárias 
+traçadas sobre o globo terrestre ou um mapa. É através da interseção 
+de um meridiano com um paralelo que podemos localizar cada ponto da 
+superfície da Terra. Suas coordenadas são a latitude e a longitude. 
+A abreviatura “Lat. ” corresponde à “Latitude”, enquanto a abreviatura 
+“Long. ” corresponde à “Longitude”. Note que as longitudes determinam 
+os fusos horários mundiais, enquanto as latitudes determinam os tipos 
+de clima da Terra, devido à incidência dos raios solares. 
+O GPS (Sistema de Posicionamento Global) informa nossa localização 
+de acordo com as coordenadas de Latitude e Longitude. Portanto, a 
+sobreposição destas duas linhas imaginárias determinam a posição 
+de uma coordenada geográfica, da qual as principais referências são: a 
+Linha do Equador e o Meridiano de Greenwich. 12 13
+Paralelos: são linhas imaginárias paralelas ao plano do Equador sobre a 
+superfície terrestre. O Equador é considerado o paralelo de origem. 
+Meridianos: são arcos ou semicírculos de 180° que se estendem de um 
+polo a outro. Para cada meridiano existe seu antimeridiano. O Meridiano 
+de Greenwich, por uma convenção, escolheu-se como meridiano inicial. 
+Os movimentos da Terra
+Nosso planeta executa diversos movimentos, tais como: a rotação, a 
+translação, a precessão e a nutação. No entanto, apenas dois desses 
+movimentos são normalmente conhecidos e percebidos pela grande 
+maioria das pessoas. São eles: a rotação e a translação. 
+Movimento de rotação: consiste em um giro de 360° que a Terra faz em 
+torno de seu eixo imaginário, de oeste para leste, a uma velocidade de 1. 
+674 km/h. Como consequência desse movimento, temos a sucessão dos 
+dias e das noites. Ao contrário do que se vê no movimento aparente do 
+Sol, a rotação ocorre de oeste (W) para leste (E). Esse movimento acarreta 
+também no abaulamento do Equador e achatamento dos polos. 
+Movimento de translação: consiste em uma rota elíptica que a Terra 
+executa em torno do Sol. Uma translação completa leva 365 dias, 5 
+horas e 48 minutos. As horas e minutos retirados serão somados ao 
+final de quatro anos e darão origem aos anos bissextos. O movimento é 
+ainda responsável pela existência das quatro estações do ano, que é um 
+resultado direto de dois fatores conjugados: a existência do eixo inclinado 
+da Terra somado ao movimento de translação. 
+Fusos horários
+O sistema de fusos horários foi estabelecido a partir da divisão dos 360° 
+da esfera terrestre pelo número de horas que ele gasta para dar um giro 
+completo em torno de seu eixo, ou seja, 24 horas. 
+A cada 15°, indica que a terra gira 1 hora pelo movimento de rotação, de 
+oeste para leste. 
+Resultados de fusos horários: as horas aumentam para leste e diminuem 
+para oeste; cada 15° equivale a uma hora e um fuso; cada 1° equivale a 
+quatro minutos; cada 1° na linha do Equador equivale a 111 km; total de 
+vinte e quatro fusos. 
+Projeções cartográficas
+São classificadas, principalmente, quanto à superfície de projeção e às 
+propriedades:
+• Quanto à superfície de projeção: podem ser projeções planas, cônicas 
+ou cilíndricas, quando forem utilizadas as superfícies de um plano, cone 
+ou cilindro como base para planificar a esfera terrestre. Os exemplos 
+abaixo demonstram a transformação da superfície terrestre em uma 
+superfície plana com auxílio das superfícies de projeção. 
+• Quanto às propriedades: podemos minimizar as deformações ocorridas 
+pela planificação da superfície terrestre no que diz respeito às áreas, 
+aos ângulos ou às distâncias, mas nunca aos três simultaneamente. 
+Os exemplos abaixo mostram a possibilidade de alterar as projeções 
+para o Brasil de acordo com as propriedades. 
+Fontes: IBGE, Departamento de Geociências, Coordenação de Cartografia; e Dana, P. H. 
+Map projection overview. Boulder: University of Colorado, Dept. of Geography, 2000. 14 15
+Na projeção equivalente, não alteram-se as áreas, conservando, assim 
+uma relação constante com a sua correspondência na superfície 
+terrestre. Na projeção conforme, não há deformação dos ângulos 
+em torno de quaisquer pontos. Já na projeção equidistante, os 
+comprimentos são representados em escala uniforme.
+As principais projeções cartográficas são as de Mercator, Miller, 
+Berhmann e Robinson. Projeção de Mercator: é uma projeção conforme 
+cilíndrica. Projeção de Miller: é uma projeção equivalente cilíndrica. 
+Projeção de Berhmann: é uma projeção equivalente cilíndrica (não possui 
+nenhuma superfície de projeção, porém apresenta características 
+semelhantes às da projeção cilíndrica). Projeção de Robinson: é uma 
+projeção afilática (não é conforme ou equivalente ou equidistante) e 
+pseudocilíndrica (não possui nenhuma superfície de projeção, porém 
+apresenta características semelhantes às da projeção cilíndrica).
+Estruturas de relevo
+A crosta terrestre pode ser classificada de acordo com sua origem, 
+processo de formação geológica e tipo de rocha. A essa classificação 
+damos o nome de estrutura geológica. Existem três grandes províncias 
+geológicas: escudos cristalinos, dobramentos modernos e bacias 
+sedimentares. Os escudos cristalinos são estruturas antigas, formadas 
+durante a era Pré-Cambriana. Os escudos são constituídos de minerais 
+metálicos (ferro, manganês, ouro) e não metálicos (quartzo, ardósia). 
+No Brasil, os escudos cristalinos correspondem a 36% das estruturas 
+da superfície. A região do Quadrilátero Ferrífero, em Minas Gerais, que 
+possui importantes reservas de ferro, é um escudo cristalino, localizado 
+na região da Serra do Curral, da Serra do Ouro Branco, da Serra da Moeda, 
+da Serra do Caraça e início da Serra do Espinhaço. Os dobramentos 
+modernos são as estruturas mais elevadas, instáveis e recentes que 
+existem na superfície. Essas estruturas são formadas basicamente por 
+movimentos orogenéticos, isto é, possuem relação com os eventos 
+geológicos que ocorrem nos limites das placas tectônicas. Por estar 
+localizado no centro de uma placa, o Brasil não possui dobramentos 
+modernos. As bacias sedimentares são áreas rebaixadas da crosta, 
+submersas ou não, preenchidas por grãos de minerais, fragmentos de 
+rochas e sedimentos orgânicos (restos de animais e vegetais, conchas, 
+recifes etc.). Ao longo de milhares de anos, essas partículas são 
+transportadas e depositadas nas bacias por meio da ação dos ventos, 
+da água, pelo transporte de animais ou por qualquer outro agente que 
+realiza a transposição. No Brasil, as bacias sedimentares recobrem 64% 
+das terras emersas. As bacias são de grande importância econômica, 
+pois dão origem aos combustíveis fósseis. Ao longo do processo de 
+deposição dos sedimentos, materiais orgânicos acumulam-se em áreas 
+de bacias sedimentares e, em condições especiais de temperatura e 
+pressão, dão origem ao petróleo, carvão mineral e gás natural.
+Exercícios:
+1.(PSS-UEPG 2014) – Com relação às coordenadas geográficas – 
+paralelos e meridianos –, assinale o que for correto. 
+01) O equador, o paralelo principal, divide a Terra em hemisférios Setentrional e 
+Meridional, enquanto o meridiano de Greenwich e o seu antemeridiano dividem a 
+Terra em hemisférios Oriental e Ocidental. 
+02) Os trópicos localizam-se entre o equador e os círculos polares da Terra. 
+04) Os círculos polares estão localizados entre os trópicos e os polos terrestres. 
+08) A latitude é definida pelos paralelos, enquanto a longitude é definida pelos 
+meridianos. 
+2. Os diferentes tipos de províncias geológicas revelam as diferentes 
+feições do relevo enquanto expressões das diferentes temporalidades 
+que marcam o passado geológico do planeta Terra. Por seus processos 
+formativos, as estruturas geológicas com condições mais favoráveis 
+à formação de combustíveis fósseis são:
+A) as bacias sedimentares
+B) os maciços antigos
+C) as plataformas cristalinas
+D) os dobramentos antigos
+E) os dobramentos modernos 16 17
+FILOSOFIA
+Prof. Biro
+Filosofia política
+Entende-se política como a participação do sujeito na sociedade. 
+Em suma, contratos sociais sintetizam uma vida política. 
+Aristóteles dizia que o homem por ser gregário era um animal 
+político, isto é, realiza acordos na sociedade em que vive. Platão 
+afirmava que quem não se interessava por política era governado 
+por aqueles que tinham interesse em ter o poder. Em suma, ou 
+nos interessamos por política ou somos governados e estamos 
+submetidos a feitos sem nosso consentimento ou conhecimento. 
+A trajetória política dos últimos séculos se organizou das 
+seguintes formas:
+Vejamos a trajetória de nossa construção política:
+ESTADO
+MODERNO
+ESTADO
+ABSOLUTISTA
+CONTRATUALISTAS 
+ILUMINISTAS 
+REVOLUÇÃO 
+FRANCESA
+IDEIAS E CONCEPÇÕES 
+DE DIREITA E 
+ESQUERDA
+REPÚBLICA E 
+DEMOCRACIA ILUMINISTAS 18 19
+Para Maquiavel, amor e 
+temor devem fazer parte 
+da prática política. O 
+governante deve sempre 
+buscar o amor de seus 
+súditos, mas quando 
+preciso e necessário, usar 
+o temor.
+1. Nicolau Maquiavel e o Estado Moderno. 
+Um dos grandes nomes do Renascimento, o italiano 
+Nicolau Maquiavel (1469 – 1527), foi um importante 
+diplomata e escritor dos séculos XV e XVI. Influenciado 
+pela concepção de Teoria dos Dois Reinos da Escolástica, 
+Maquiavel é tido como o percursor dos estudos políticos, 
+especialmente pelas suas obras Tito Lívio e O Príncipe, 
+caracterizados por retratarem o poder.
+O pensamento de Maquiavel (que não é maquiavélico) 
+é pela instrumentalização de uma ética de governo que 
+rompe com a trajetória cristã. O rei cristão tinha uma 
+ética para salvar a sua alma; em Maquiavel, o papel do 
+rei é salvar a cidade, os súditos e sua autoridade, mesmo 
+que precise utilizar de ferramentas não convencionais. 
+Essa ética republicana retornou a conceitos da religião 
+pagã, por isso caberia ao rei realizar meios para alcançar 
+seus objetivos enquanto governante, nascendo a ideia 
+“que os fins justificam os meios”.
+Deve enfatizar que o contexto das obras de Maquiavel 
+era de crise do comércio no Mediterrâneo e ascensão 
+de Portugal e Espanha nas grandes navegações. 
+Para Maquiavel, era necessário uma organização 
+e concentração republicana do poder real. Esse 
+republicanismo se dava pelas condições de aliança 
+da burguesia (interesse em moeda, peso etc.) e da 
+aristocracia (aumento de poder).
+O rei, para Maquiavel, deveria ter dois atributos: virtu e 
+fortuna. A virtu era a capacidade de coragem, ousadia, 
+destemor ao passo que a fortuna referia-se a um bom 
+momento, boa ocasião e até mesmo sorte. Contudo, de 
+nada adiantava um governo em um momento oportuno 
+se o rei fosse inepto ou covarde. Assim, a virtu deveria 
+sobrepor-se a fortuna.
+A concepção de poder em Maquiavel contribuiu para 
+uma secularização, racionalização e laicização da 
+sociedade moderna. 
+2. Thomas Hobbes e o Estado Absolutista. 
+O inglês Thomas Hobbes (1588 – 1679) é tido como 
+o pai do Estado Absolutista, que pode ser definido 
+como uma maior concentração de poder na figura do 
+rei, que se reflete na própria existência do Estado. O 
+monarca é o poder e o poder é o monarca.
+O Absolutismo se caracteriza por um fortalecimento 
+do papel da nobreza no poder, fazendo com que a 
+burguesia perdesse participação e estagnasse em 
+suas pretensões de fazer parte do poder.
+Thomas Hobbes presenciou em solos europeus, e 
+sobretudo inglês, um dos maiores conflitos religiosos 
+do século XVII: a Guerra dos Trinta Anos (1618 – 1648). 
+Em meio à barbárie e às disputas que norteavam o 
+mundo europeu e colonial, Hobbes entendeu que a 
+violência era um traço da humanidade e que o homem 
+era mau por natureza. Diante disso, Hobbes entendeu 
+que era necessário a existência de um Estado com 
+poder concentrado, mediante a concessão da 
+liberdade pelos súditos a levar o homem do estado 
+de natureza ao estado de civilidade. Nascia assim o 
+modelo de Estado Absolutista, em sua obra central: 
+Leviatã. 
+A concepção de Leviatã é uma referência ao monstro 
+marinho da tradição judaico-cristã de aparecia de 
+forma poderosa. Para Hobbes, Leviatã político deveria 
+ser baseado em um estado monárquico, que puniria 
+aqueles que desobedecessem ao contrato social. 
+Hobbes torna-se assim o primeiro contratualista. 
+Segundo Hobbes, o 
+homem é o lobo do 
+homem. Em detrimento da 
+maldade humana, apenas 
+o Estado poderia levar 
+o homem da condição 
+de natureza para a de 
+civilidade.
+No contrato social de Hobbes:
+Estado Forneceria segurança aos súditos
+Sociedade Forneceria liberdade ao Estado em troca de segurança 20 21
+É importante salientar que a concentração do poder apresentada 
+por Hobbes fazia parte de um complemente a concepções de Jean 
+Bodin e Jacques Bossuet, que afirmavam que o rei tinha poder pela 
+vontade divina, ou como dizia o rei francês Luís XIV: L’Etat C’Est 
+Moi (O Estado sou eu).
+Liberalismo, Contratualismo e Iluminismo: as críticas ao poder 
+Absolutista.
+A política do Absolutismo foi acompanhada na economia da Idade 
+Moderna conhecida como Mercantilismo. A prática mercantilista 
+tinha como pilares a existência de um mercado colonial, 
+protecionismo e balança comercial favorável. Assim, possuir colônias 
+constituía-se como algo vantajoso às Metrópoles pois fortalecia o 
+poder absoluto real e dava condições para o desenvolvimento da 
+burguesia. A aliança Absolutismo e Mercantilismo deu origem ao 
+conceito Antigo Regime.
+Ainda que a burguesia auferisse ganhos com a prática mercantilista, 
+a crescente necessidade de livre circulação de mercadorias fez 
+com que lentamente a mentalidade protecionista dos Estados 
+absolutistas fosse colocada em xeque pela classe burguesa. Além 
+disso, a burguesia não tinha participação política, não votavam e 
+ficavam à mercê das decisões tomadas pela nobreza e clero, que 
+tinham seus poderes desde o período medieval. Embora a Idade 
+Média tenha-se encerrado em 1453, o imaginário medieval ainda 
+era presente nas relações de poder e privilégios da Idade Moderna. 
+Foi nesse cenário de transformações que as limitações impostas 
+pelo Estado absolutista passaram a ser questionadas. Surgia dessa 
+forma os ideários que permearam o movimento Iluminista.
+1) O liberalismo de John Locke e Adam Smith.
+Embora a Revolução Francesa (1789) seja o grande evento do 
+Iluminismo, não foi na França que as ideias das luzes surgiram, mas 
+sim na Inglaterra. A sociedade inglesa havia passado por conflitos 
+religiosos (Guerra dos Trinta Anos) e políticos (Guerra Civil). Desde o 
+começo do século XVII, havia se tornado uma das grandes potências 
+marítimas da Europa, com uma burguesia em expansão e cada vez 
+mais o presente. O próprio Renascimento, em sua última fase – 
+Cinquecento (século XVI), teve na Inglaterra seu grande centro.
+Foi nesse cenário que as concepções de liberdade individual 
+surgiram e foram sementes para o terreno Iluminista que iria nascer. 
+Chama-se a noção de defesa à liberdade individual de Liberalismo
+.
+O inglês John Locke (1632 – 1704) é considerado o pai do 
+Liberalismo. Locke introduz o conceito de Direito Natural, teoria que 
+afirma que o homem deve ser livre pelo nascimento, contrariando as 
+concepções do Antigo Regime, em que as pessoas eram presas no 
+nascimento ao estamento que faziam parte. 
+Sua principal obra, Ensaio sobre o entendimento humano, traça 
+uma perspectiva da vida humana pela liberdade e pela experiência, 
+o que faz de Locke também um ser empirista. Na verdade, as ideias 
+de natureza, liberdade e produção de riqueza estão intrínsecas no 
+pensamento do Liberalismo Clássico.
+A liberdade a que Locke apregoa envolve as questões de política, 
+consciência e economia, razão pela qual Locke defende a liberdade a 
+posse da propriedade privada. Contrário aos abusos do Absolutismo, 
+Locke vislumbra na liberdade e diminuição das atribuições do Estado 
+a existência de uma tolerância. 
+Influenciado pelas ideias de John Locke, o escocês Adam Smith
+(1723 – 1790), acentuou a defesa pela liberdade econômica 
+com a obra A riqueza das nações, principal obra de oposição ao 
+Absolutismo. Smith, pai do liberalismo econômico, é responsável 
+direto pela teoria que fortaleceu o surgimento do capitalismo. 
+Segundo Smith, a economia e o trabalho são naturais e por isso a 
+economia deveria circular livremente, sem interferência do Estado, 
+que no pensamento smithiano seria antinatural. O Estado não gera 
+riquezas, mas sim retira, ao passo que a economia livre gera riqueza, 
+pois sobretudo há uma soma de interesses: “Não é da benevolência 
+do açougueiro, do cervejeiro e do padeiro que esperamos o 
+nosso jantar, mas da consideração que eles têm pelos próprios 22 23
+interesses. Apelamos não à humanidade, mas ao amor próprio, e 
+nunca falamos de nossas necessidades, mas das vantagens que 
+eles podem obter.” 
+Para Smith, a riqueza é natural e por isso o trabalho antecede a 
+existência da propriedade privada. A naturalização da economia 
+faz com que Smith afirme na existência de uma “mão invisível” 
+do mercado, visto que é a economia que determina os preços e a 
+demanda. A única função do Estado, para Smith, seria garantir a 
+liberdade do sujeito e da propriedade privada. 
+A concepção de liberdade econômica se traduz em uma concepção 
+da fisiocracia (concepção de que a verdadeira riqueza estava no 
+campo): laissez faire, laissez aller, laissez passer, “deixai fazer, deixai 
+ir, deixai passar”.
+Escola Austríaca.
+Em fins do século XIX e começo do século XX, surgiu na 
+Áustria uma corrente econômica que defendia um retorno 
+aos pressupostos teóricos de uma economia livre proposta 
+por Smith, no século XVII. Para esses autores, teria ocorrido 
+uma crescente interferência do Estado na economia por 
+causa das críticas feitas pelas teorias de século XIX aos 
+acontecimentos da Revolução Industrial. Assim, na década 
+de 1930, nomes como Ludwig Von Mises e Friedrich Hayek 
+pautavam-se pelas críticas ao Socialismo, ao Capitalismo de 
+Estado e ao Estado de Bem-Estar social.
+1) Contratualistas iluministas: Montesquieu, Voltaire e Jean 
+Jacques Rousseau.
+Em simultâneo aos ideários do Iluminismo, o contratualismo das 
+luzes também teceu críticas ao contratualismo hobbesiano. Isso 
+deu-se em virtude de uma disseminação dialética de ideias e 
+desgaste do Antigo Regime.
+O barão de Montesquieu (1689 – 1755), aristocrata francês, tornou-
+se conhecido por dedicar-se ao estudo das leis, além de propor 
+uma forma de racionalização do poder monárquico. Contribuiu para 
+a Enciclopédia de Diderot e D’Alembert, mas tornou-se conhecido 
+pela sua obra-prima O espírito das leis. 
+Segundo Montesquieu, as leis existem para garantir liberdade 
+aos indivíduos, ao passo que também impor limites quando os 
+direitos alheios são interferidos pelos nossos atos. Montesquieu 
+argumenta que as leis representam um clima, espaço e tempo, e 
+por isso devem ser criadas baseadas no momento em questão. 
+O poder deveria ser tripartide, isto é, dividido em três partes 
+igualitárias: executivo, judiciário e legislativo. De acordo com 
+Montesquieu, isso inibiria a concentração do poder nas mãos de 
+uma única pessoa, além de otimizar (dar dinamismo) às decisões. 
+Para ele, apenas o poder poderia frear o poder. 
+Montesquieu aponta para a existência de três formas de governo: 
+Monarquia, Despotismo e República. Na primeira, o poder se baseia 
+pela honra. Na segunda, nas mãos de uma só pessoa. Na terceira, 
+nas mãos de muitos. Contudo, Montesquieu defende que a melhor 
+forma de governar se dava por meio da Monarquia Constitucional. 
+Voltaire (1694 – 1778) tornou-se conhecido por uma frase que lhe 
+é atribuída: “discordo de você, mas defenderei até a morte o teu 
+direito de dizê-lo”. Sendo de Voltaire ou de seus biógrafos, a frase 
+sintetiza a filosofia do autor francês em busca de uma sociedade 
+mais tolerante. Para tanto, destaca-se sua obra Tratado sobre a 
+tolerância. 
+Crítico dos privilégios da nobreza e da aristocracia, Voltaire foi 
+preso e teve que exilar-se na Inglaterra, onde teve contato com 
+o liberalismo de John Locke. Voltaire defendia os valores da 
+ciência e da razão como um progresso e ironizou o pensamento de 
+Rousseau de querer retornar ao estado de natureza. A concepção 
+de Voltaire sobre tolerância colaborou (juntamente com outros 
+filósofos) ao nascimento de ideários após a Revolução Francesa, 
+como isonomia (direitos iguais)
+.
+Jean Jacques Rousseau (1712 – 1788) foi o mais radical dos 
+contratualistas. Ao contrário de Hobbes, Rousseau defendia que 
+o homem nascia bom, a sociedade que o corrompia. Mas se a 24 25
+sociedade é feita pelos homens, como isso seria possível? Segundo 
+Rousseau, a existência da propriedade privada era a base da maldade 
+humana, gerando desigualdade entre os homens e violência. 
+Sua principal obra Do contrato social, trata da questão Estado e 
+Sociedade em uma relação direta: o poder pertencente unicamente 
+ao povo, o que se denomina democracia direta. Ao contrário de 
+Voltaire e Montesquieu, Rousseau propõe o modelo republicano 
+como forma ideal de governo. 
+Em Discurso sobre a origem e os fundamentos das desigualdades 
+entre os homens, Rousseau apontou que no início da humanidade 
+o homem vivia em estado de natureza, inocente, basicamente um 
+bom selvagem. Gradativamente, alguém se apossou da propriedade 
+sem consentimento coletivo, dando origem a sociedade civil. Assim, 
+para garantir a proteção a propriedade, o homem criou instituições e 
+valores que cercearam o comportamento selvagem, como o Estado 
+(criado para garantir a posse da terra para alguns), a Religião (para 
+impor medo ou recompensa), a Família e outros. 
+Como a sociedade civil foi fruto de um roubo, na concepção de 
+Rousseau, o homem deveria voltar ao estado de natureza e a 
+única forma disso acontecer era por meio do controle de todas as 
+extensões da vida, como economia e política. 
+Contudo, a impossibilidade de o homem retornar ao estado de 
+natureza seria amenizada pela criação de leis que refletissem a 
+vontade geral de todo o povo, e não unicamente do soberano. 
+Rousseau afirmou que o “homem nasce livre, mas se encontra 
+por todas as partes acorrentados”, fazendo uma crítica ao culto ao 
+progresso e a ciência.
+Em sua obra Emílio, Rousseau enxerga na educação uma forma 
+de levar os indivíduos à superação dos instintos e egoísmos em 
+benefício a uma sociedade mais plural coletiva. 26 27
+SOCIOLOGIA
+ORIGENS:
+O QUE É SOCIOLOGIA?
+AUGUSTO COMTE E O POSITIVISMO 
+Após as Revoluções Burguesas, a saber:
+Industrial (1765) e Francesa (1789).
+No entanto, antes do surgimento da Sociologia os homens produziam 
+formas de conhecimento. Chamamos o período que antecede à 
+Sociologia de Pensamento Social.
+A Sociologia é uma ciência voltada para compreender a sociedade. Para 
+tanto, usa métodos específicos que permitem o surgimento de várias 
+correntes e pensadores.
+Primeira escola sociológica, o Positivismo também é conhecido como 
+Física Social. Esse nome é utilizado devido à influência que as Ciências 
+Naturais, como a Biologia, Química e a própria Física tiveram no 
+surgimento desse pensamento, no final do século XVIII e começo do 
+século XIX. 
+O Positivismo acredita que todo desenvolvimento científico tem como 
+meta o progresso moral e político do sujeito. Inserido em um cenário de 
+expansão do Capitalismo, Indústria e Ciência, o Positivismo é fortemente 
+apegado à Razão e Ciência, e por isso nega a Religião e a Metafísica. 
+Dessa forma, o Positivismo acredita em um progresso voltado pela 
+ordem, ao que chamamos de Estática e Dinâmica Social. Esse conceito 
+influenciou muito os brasileiros do século XIX, especialmente o militar 
+Benjamim Constant, que influenciado por um espírito positivista, lutou 
+pela Proclamação da República no Brasil. 
+Prof. Biro 28 29
+A LEI DOS TRÊS ESTADOS
+ÉMILE DURKHEIM E O FUNCIONALISMO
+Conceito fundamental no Positivismo, essa lei aponta para um sentido 
+teleológico (liga uma coisa a uma causa, isto é, ruma em direção a um 
+fim específico), a saber:
+• O primeiro estado é o teológico.
+Todas as explicações se baseiam na crença em deus ou deuses.
+• O segundo estado é o metafísico.
+Metafísica é aquilo que “escapa a nossa realidade”. Ou seja, não se 
+tem tanta objetividade na explicação para as coisas do mundo. Usa-
+se noções psicológicas para se entender a realidade: ou seja, Universo, 
+Natureza, Providência. 
+• O terceiro estado é o positivista.
+Seria o estágio perfeito, onde os fatos seriam severamente analisados. 
+Tudo se explicaria pela Ciência e pela Razão. 
+Um dos maiores nomes da Sociologia, Durkheim desenvolveu o 
+importante conceito de Fato Social. Fato Social é toda e qualquer 
+realidade encontrada no tempo ou no espaço: religião, Estado, linguagem, 
+uniforme etc.
+A noção de Fato Social valoriza o coletivo e não o indivíduo. Isso ocorre, 
+pois todo Fato Social é:
+• Externo: algo que vem de fora para dentro e quando nascemos já existia.
+• Geral: atinge todas as pessoas da sociedade.
+• Coercitivo: algo imposto, obrigatório.
+O idioma de um país é um Fato Social, pois quando nascemos já existia 
+(externo), todos falavam (geral) e somos obrigados a aprender para 
+conviver (coercitivo).
+As instituições são fundamentais para o surgimento e fortalecimento 
+dos Fatos Sociais. Isso ocorre, pois sempre temos relacionamentos 
+institucionais: família, escola, igreja etc. 
+KARL MARX E O MATERIALISMO HISTÓRICO
+MAX WEBER E A SOCIOLOGIA COMPREENSIVA
+Pensador alemão do século XIX, Marx tem conceitos que se estendem 
+até os dias atuais. Sua principal obra, O Capital, escrita em 1867, provocou 
+divisões entre seguidores (marxistas) e críticos. 
+Marx acredita que os indivíduos são identificados pelo lugar que ocupam 
+na economia. Na sociedade capitalista, Marx afirma que há apenas 
+duas classes: burguesia e operários. A primeira é dona dos meios de 
+produção. A segunda está dentro dos meios de produção. Essa condição 
+é razão para a existência de uma luta de classes, afirma Marx. 
+Segundo Marx, quanto mais lucros os operários produzem para a 
+burguesia, mais explorados são. Marx acredita que essa contradição 
+será percebida pelos operários que tomariam o poder, provocando uma 
+ruptura com o sistema capitalista e o surgimento de uma sociedade 
+sem classes, o Socialismo. 
+Ao analisar o Capitalismo e o Socialismo, Marx procura entender como 
+a humanidade chegou a esse estágio. Assim, observando o início 
+das relações produtivas, Marx criou o conceito Modos de Produção. 
+Segundo ele, em todos os modos de produção houve conflitos entre 
+quem dominava a economia e entre quem era dominado. Surge assim, a 
+frase que “a história da humanidade é a história da luta de classes”.
+Weber, autor alemão dos séculos XIX e XX, procurou compreender 
+a sociedade capitalista, e não interferir como fez Comte e Marx. Para 
+tanto, questiona o porquê de o capitalismo ter surgido no Ocidente e em 
+países protestantes. 
+Ao estudar as origens do capitalismo, Weber afirma que entre os séculos 
+XVI e XVII havia uma ética protestante que provocou no século XVIII o 
+espírito do capitalismo. A ética protestante valorizava o trabalho como 
+forma de agradar a Deus e ser salvo. Essa ética pautada pelo pensamento 
+calvinista fez com que, nesses dois séculos, os protestantes poupassem 
+dinheiro, sendo isso o espírito do capitalismo, ou seja, acumulação de 
+capital. 
+Essa análise levou Weber a cunhar o termo Tipo Ideal, que pode ser compreendido como o indivíduo que se “encaixa” no tempo e no 
+espaço com alguma prática. É bom ressaltar que essa noção não tem 
+conotação positiva, negativa ou de valor, mas sim NEUTRA. 
+Outro importante conceito de Weber é sobre o Estado. Para ele, o 
+Estado possui o Monopólio da Força Legítima. O que seria isso? 
+Segundo Weber, o Estado tem seu poder reconhecido pela população 
+em um dado território. Esse monopólio se dá pelo poder das leis e das 
+forças policiais.
+CULTURA
+MOVIMENTOS SOCIAIS E DEMOCRACIA
+Um dos termos mais amplos, a noção de cultura é enorme. Podemos 
+dizer que cultura é aquilo que se cultiva (uma cultura econômica, por 
+exemplo, como soja, café, cana etc.) e que identifica as pessoas pelas 
+tradições, costumes, leis, moral etc. 
+Nesse sentido, é importante ressaltar que não existe cultura superior e 
+nem pura. 
+Nos estudos culturais, observa-se os seguintes comportamentos:
+• Etnocentrismo. Quando um grupo se coloca no centro de tudo e julga 
+os demais pelos seus critérios. Para esse grupo, apenas a própria cultura 
+é válida.
+• Xenofobia. Medo ou aversão a estranhos. Essa prática ocorre quando 
+um grupo tem repulsa por quem vem de fora. Para os praticantes de 
+xenofobia, o diferente pode corromper as tradições. 
+A democracia traz à tona três tipos de direitos:
+• Civis: direito de expressão, ir e vir. 
+• Políticos: votar e ser votado.
+• Sociais: educação, saúde, acesso à renda.
+No entanto, nem sempre todos esses direitos são alcançados de forma 
+natural. Nesse sentido, ao lutar pela democracia e isonomia (direitos
